@@ -33,7 +33,7 @@ jobs:
           # plugin_achievements_display: detailed
 
           plugin_calendar: yes
-          plugin_calendar_limit: 5
+          plugin_calendar_limit: 7
 
           # plugin_habits: yes
           # plugin_habits_facts: yes
